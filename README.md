@@ -1,4 +1,4 @@
-# Books Catalog API for Digital Inovvation One
+# Books Catalog API for Digital Innovation One
 
 This project is based on _ApiCatalogoJogos_ made for [Thiago Oliveira](https://www.linkedin.com/in/thiago-campos-de-oliveira-693a3840/) Digital Innovation One instructor.
 
