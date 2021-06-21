@@ -6,4 +6,4 @@ The main project's objective was build a simple API REST for a CRUD solution. He
 
 The UML diagram for the API is shown below:
 
-![](docs/ApiCatalogoLivros.png)
+![](docs/CatalogoLivros.png)
